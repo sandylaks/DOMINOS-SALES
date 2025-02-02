@@ -5,9 +5,13 @@ This project analyzes pizza sales KPIs to optimize performance using SQL (SSMS) 
 🚀 Features
 
 ✅ SQL-based sales analysis
+
 ✅ Power BI dashboard for insights
+
 ✅ Store performance & revenue trends
+
 ✅ Best-selling pizzas & seasonal trends
+
 ✅ Profitability & cost analysis
 
 🛠 Tech Stack
@@ -19,6 +23,9 @@ This project analyzes pizza sales KPIs to optimize performance using SQL (SSMS) 
 📊 Key Insights
 
 📈 Peak Sales Trends – Identify high-revenue periods
+
 🍕 Top-Selling Pizzas – Track best-performing menu items
+
 🏬 Store Performance – Compare high vs. low-earning outlets
+
 📉 Profit Analysis – Revenue vs. costs breakdown
